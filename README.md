@@ -26,7 +26,7 @@
 - 🔭 I'm a Software Engineer with a background in Devops, Linux and Robotics.
 - 🌱 I have a Bachelor Degree in Communications and Electronics Engineering.
 
----
+
 
 <!-- ### 🛠 Languages and Tools :
 
@@ -57,10 +57,10 @@
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedfarag9&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedfarag9&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfarag9&layout=compact&theme=vision-friendly-dark)](https://github.com/ahmedfarag9/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfarag9&layout=compact&theme=vision-friendly-dark)](https://github.com/ahmedfarag9/github-readme-stats) -->
 
-<!--
+<!-- </div> -->
