@@ -23,7 +23,7 @@
 
 ### Hey there, here is a little background :
 
-- 🔭 I'm a Software Engineer with a background in Devops, Linux and Robotics.
+- 🔭 I'm a Software Engineer with a background in Devops and Linux.
 - 🌱 I have a Bachelor Degree in Communications and Electronics Engineering.
 
 
