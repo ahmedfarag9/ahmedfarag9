@@ -23,7 +23,7 @@
 
 ### Hey there, here is a little background :
 
-- 🔭 I'm a Software Engineer with a Devops background.
+- 🔭 I'm a Software Engineer with an interest in DevOps.
 - 🌱 I have a Bachelor Degree in Communications and Electronics Engineering.
 
 
