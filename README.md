@@ -2,9 +2,9 @@
   <!-- <img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611750ea31b50f7a50f799f0c0a0252c02163566e18&rid=giphy.gif&ct=g" width="300"/> -->
 
 <div id="badges" >
-  <a href="https://ahmedfarag9.github.io/">
+<!--   <a href="https://ahmedfarag9.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" target="_blank"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/ahmedfarag9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
