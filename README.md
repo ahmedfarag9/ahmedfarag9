@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ahmedfarag9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmedfarag9/](https://www.upwork.com/freelancers/~01a6f6ddb945e6f16e">
+  <a href="https://www.upwork.com/freelancers/~01a6f6ddb945e6f16e">
     <img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="UpWork Badge" target="_blank"/>
   </a>
   <!-- <a href="https://leetcode.com/ahmedfarag9/">
