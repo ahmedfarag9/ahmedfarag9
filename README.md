@@ -28,7 +28,7 @@
 
 <!--
 <div>
-  My name is Ahmed Farag. I am a Software Engineer based in Giza, Egypt. With a strong interest in DevOps, I strive to bridge the gap between software development and operations to build robust and scalable systems.<br/><br/>
+  I am a Software Engineer based in Egypt. With a strong interest in DevOps, I strive to bridge the gap between software development and operations to build robust and scalable systems.<br/><br/>
 
   I hold a Bachelor&apos;s Degree in Communications and Electronics Engineering, which has provided me with a solid foundation in technical knowledge and problem-solving skills.<br/><br/>
 
@@ -67,7 +67,7 @@ Experience in cloud service management, particularly with AWS.
 Good scripting skills with Bash and a solid foundation in Linux.
 -->
 Experience:
-Currently working as a Full Stack Software Engineer for a company in Europe, and previously freelanced as a DevOps Engineer, with hands-on experience in Backend development, Frontend creation, and Cloud services integration.
+Currently working as a Full Stack Software Engineer with hands-on experience in Backend development, Frontend creation, and Cloud services integration.
 
 Education:
 Holds a Bachelor of Engineering in Communications and Electronics.
