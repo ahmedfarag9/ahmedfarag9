@@ -24,8 +24,6 @@
 
 </div>
 
-## Here is a little background..
-
 <!--
 <div>
   I am a Software Engineer based in Egypt. With a strong interest in DevOps, I strive to bridge the gap between software development and operations to build robust and scalable systems.<br/><br/>
@@ -70,7 +68,8 @@ Experience:
 Currently working as a Full Stack Software Engineer with hands-on experience in Backend development, Frontend creation, and Cloud services integration.
 
 Education:
-Holds a Bachelor of Engineering in Communications and Electronics.
+- Holds a Bachelor of Engineering in Communications and Electronics.
+- Currently a Master's Degree Candidate (Computer Engineering - Helwan University).
 </div>
 
 <!-- ### 🛠 Languages and Tools :
